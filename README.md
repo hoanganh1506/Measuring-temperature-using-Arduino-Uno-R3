@@ -1,4 +1,4 @@
-Đo nhiệt độ sử dụng DHT11 và Arduino Uno R3 - Bài tập lớn môn Đo lường điện tử
+Đo nhiệt độ sử dụng Arduino Uno R3 và cảm biến DHT11 - Bài tập lớn môn Đo lường điện tử
 
 Thiết bị sử dụng:
 - Arduino Uno R3
